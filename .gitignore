@@ -1,0 +1,4 @@
+__pycache__
+temp/
+models/liveportrait
+models/ultralytics
